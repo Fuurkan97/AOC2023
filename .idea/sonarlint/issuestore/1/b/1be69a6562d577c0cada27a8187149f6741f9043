@@ -1,16 +1,0 @@
-
-i	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘ò¥„8ôİ¯ÀÂ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿõõ†8õİ¯ÀÂ1
-W
-java:S1118
-":Add a private constructor to hide the implicit public one.(‘ò¥„8ôŞ¯ÀÂ1
-c
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(’ĞÖÙÿÿÿÿÿ8õŞ¯ÀÂ1
-F	java:S106)"+Replace this use of System.out by a logger.(àïÆW8ùŞ¯ÀÂ1
-\
-java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8úŞ¯ÀÂ1
-M
-java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8úŞ¯ÀÂ1
-P
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8úŞ¯ÀÂ1
