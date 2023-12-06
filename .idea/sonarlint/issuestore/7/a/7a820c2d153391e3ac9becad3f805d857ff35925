@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•§Éì8®‘îıÃ1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(—¯„øÿÿÿÿ8ª¢¥şÃ1
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(•˜î„8Â‘îıÃ1
+\
+java:S1854":Remove this useless assignment to local variable "reader".(—¯„øÿÿÿÿ8Â‘îıÃ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(æ¹œÈ8Â‘îıÃ1
+M
+java:S1481"+Remove this unused "reader" local variable.(—¯„øÿÿÿÿ8Ã‘îıÃ1
+G	java:S106+"+Replace this use of System.out by a logger.(Êöü¸8Ä‘îıÃ1

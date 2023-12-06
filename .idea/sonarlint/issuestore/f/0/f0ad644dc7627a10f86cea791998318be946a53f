@@ -1,0 +1,10 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘ò¥„8ôİ¯ÀÂ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ğ¸›şÿÿÿÿ8õİ¯ÀÂ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(‘ò¥„8ôŞ¯ÀÂ1
+]
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(ñ±·
+8õŞ¯ÀÂ1
+G	java:S106&"+Replace this use of System.out by a logger.(š™•Œ8ùŞ¯ÀÂ1
