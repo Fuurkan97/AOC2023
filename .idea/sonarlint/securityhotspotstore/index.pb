@@ -20,13 +20,9 @@ V
 Q
 !src/adventOfCode2015/Day01/advent,b\4\b4d161bf93e4ddc1f4a4a4e23d7c990caf93001a
 `
-0src/adventOfCode2023/adventOfCodeDay05/Main.java,d\2\d207831e034224cf504738db28d9f0a200a0777c
-`
 0src/adventOfCode2023/adventOfCodeDay06/Main.java,1\f\1fb45b0c3ac4ef593dd03bff6d60e53c228aa859
 ]
 -src/adventOfCode2023/adventOfCodeDay06/advent,e\2\e222d86f4ee38db8568f7704d39e1634de8749c0
-j
-:src/adventOfCode2023/adventOfCodeDay06/AoCDay06Part01.java,9\7\975b0b10b29a36ac4699c7788f5c4a5101333554
 e
 5src/adventOfCode2023/adventOfCodeDay06/AOCPart01.java,3\a\3ad227a7601eb73a167559305c1f94632f255b42
 e
